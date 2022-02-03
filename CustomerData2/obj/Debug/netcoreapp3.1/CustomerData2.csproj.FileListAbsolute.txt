@@ -1,0 +1,10 @@
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\bin\Debug\netcoreapp3.1\CustomerData2.deps.json
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\bin\Debug\netcoreapp3.1\CustomerData2.dll
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\bin\Debug\netcoreapp3.1\CustomerData2.pdb
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.csproj.AssemblyReference.cache
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.AssemblyInfoInputs.cache
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.AssemblyInfo.cs
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.csproj.CoreCompileInputs.cache
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.dll
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.pdb
+C:\Users\dillo\source\repos\ElectricBillAverageApp\CustomerData2\obj\Debug\netcoreapp3.1\CustomerData2.GeneratedMSBuildEditorConfig.editorconfig

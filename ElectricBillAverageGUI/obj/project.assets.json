@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomerData2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CustomerData2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomerData2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerData2/1.0.0": {
+      "type": "project",
+      "path": "../CustomerData2/CustomerData2.csproj",
+      "msbuildProject": "../CustomerData2/CustomerData2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CustomerData2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dillo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dillo\\Desktop\\PublicGitHub\\ElectricBillingAverage\\ElectricBillAverageGUI\\ElectricBillAverageGUI.csproj",
+      "projectName": "ElectricBillAverageGUI",
+      "projectPath": "C:\\Users\\dillo\\Desktop\\PublicGitHub\\ElectricBillingAverage\\ElectricBillAverageGUI\\ElectricBillAverageGUI.csproj",
+      "packagesPath": "C:\\Users\\dillo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dillo\\Desktop\\PublicGitHub\\ElectricBillingAverage\\ElectricBillAverageGUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\dillo\\Desktop\\PublicGitHub\\ElectricBillingAverage\\CustomerData2\\CustomerData2.csproj": {
+              "projectPath": "C:\\Users\\dillo\\Desktop\\PublicGitHub\\ElectricBillingAverage\\CustomerData2\\CustomerData2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomerData2/1.0.0": {
+        "runtime": {
+          "CustomerData2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerData2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
